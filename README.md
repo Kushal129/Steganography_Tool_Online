@@ -16,7 +16,7 @@ A sophisticated steganography application for securely embedding messages within
 
 ## 🚀 Quick Start
 
-1. Visit [https://steganographybykhp.netlify.app](https://steganographybykhp.netlify.app)
+1. Visit [ Website !](https://steganographybykhp.netlify.app)
 2. Choose between Process (encode) or Extract (decode)
 3. Upload an image via drag & drop or file selection
 4. For encoding:
