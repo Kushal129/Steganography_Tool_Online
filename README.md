@@ -41,10 +41,10 @@ A sophisticated steganography application for securely embedding messages within
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/steganography-studio.git
+git clone https://github.com/Kushal129/Steganography_Tool_Online
 
 # Navigate to project directory
-cd steganography-studio
+cd Steganography_Tool_Online
 
 # Install dependencies
 npm install
