@@ -192,7 +192,7 @@ function App() {
     {
       selector: '[data-tutorial="mode-selection"]',
       title: "Welcome to Steganography Studio",
-      message: "This powerful tool lets you hide secret messages within images. We're in 'Process' mode, where you can embed your message into an image.",
+      message: "This powerful tool lets you hide secret messages within images. We're in 'Encode' mode, where you can embed your message into an image.",
     },
     {
       selector: '[data-tutorial="file-upload"]',
@@ -219,8 +219,8 @@ function App() {
   const decodingSteps = [
     {
       selector: '[data-tutorial="mode-selection"]',
-      title: "Extract Mode",
-      message: "You're in 'Extract' mode, where you can reveal hidden messages from processed images. Use the mode toggle to switch between hiding and extracting.",
+      title: "Decode Mode",
+      message: "You're in 'Decode' mode, where you can reveal hidden messages from processed images. Use the mode toggle to switch between hiding and extracting.",
     },
     {
       selector: '[data-tutorial="file-upload"]',
