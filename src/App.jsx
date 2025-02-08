@@ -675,7 +675,7 @@ function App() {
 
       <footer className="relative z-10 py-8 text-center">
         <a
-          href="https://github.com/yourusername/steganography-studio"
+          href="https://github.com/Kushal129"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-2 text-emerald-500/70 hover:text-emerald-600 transition-colors"
