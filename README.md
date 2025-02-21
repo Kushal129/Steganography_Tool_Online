@@ -2,7 +2,7 @@
 
 A sophisticated steganography application for securely embedding messages within images. Built with modern web technologies and running entirely in your browser for maximum privacy and security.
 
-![Steganography Studio](https://images.unsplash.com/photo-1614064641938-3bbee52942c7?auto=format&fit=crop&q=80&w=1200&h=400)
+![Steganography Studio](https://media.wired.com/photos/594db1717c1bde11fe06f341/master/w_1920,c_limit/hidden_data-01.png)
 
 ## 🌟 Features
 
@@ -14,9 +14,21 @@ A sophisticated steganography application for securely embedding messages within
 - **Real-time Preview**: Instant image preview before processing
 - **Comprehensive Validation**: Robust error handling and user feedback
 
+## 🖼️ Screenshots
+
+### **Home Page**
+![Home Page](https://res.cloudinary.com/day0qlfda/image/upload/v1740126815/no7bdnfdctkemtil2gn0.png)
+
+### **Encode Message Interface**
+![Encode Message](https://res.cloudinary.com/day0qlfda/image/upload/v1740127455/q9gclupkbtdbn8sec487.png)
+
+### **Decode Message Interface**
+![Decode Message](https://res.cloudinary.com/day0qlfda/image/upload/v1740126818/ocoqrzx0srriiuc5y1pt.png)
+
+
 ## 🚀 Quick Start
 
-1. Visit [ Website !](https://steganographybykhp.netlify.app)
+1. Visit [Website!](https://steganographybykhp.netlify.app)
 2. Choose between Process (encode) or Extract (decode)
 3. Upload an image via drag & drop or file selection
 4. For encoding:
@@ -76,7 +88,6 @@ npm run dev
 - **React** - UI framework
 - **Tailwind CSS** - Styling
 - **Vite** - Build tool
-- **TypeScript** - Type safety
 - **Canvas API** - Image processing
 
 ### Core Components
