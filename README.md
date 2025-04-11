@@ -2,7 +2,7 @@
 
 A sophisticated steganography application for securely embedding messages within images. Built with modern web technologies and running entirely in your browser for maximum privacy and security.
 
-![Steganography Studio](https://media.wired.com/photos/594db1717c1bde11fe06f341/master/w_1920,c_limit/hidden_data-01.png)
+![Steganography Studio](https://res.cloudinary.com/day0qlfda/image/upload/v1744368639/srgaarlgoqpgn4nw64xd.png)
 
 ## 🌟 Features
 
